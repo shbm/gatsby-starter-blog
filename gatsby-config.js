@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `shbm.in`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shubham Srivastava`,
+      summary: `who lives in Berlin and works for Amazo.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Ramblings...`,
+    siteUrl: `https://shbm.in/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `global_minima`,
     },
   },
   plugins: [
